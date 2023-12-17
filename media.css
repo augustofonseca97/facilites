@@ -1,0 +1,11 @@
+@media screen and (max-widht:730px) {
+    .link{
+        padding:1.5 rem 4rem;
+    }
+    .link{
+        display: none;
+    }
+    .mobile-link{
+        display: block;
+    }
+}
